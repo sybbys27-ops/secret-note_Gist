@@ -1,1 +1,1 @@
-test
+docs 폴더를 만들기 위해서 test.txt 파일생성
